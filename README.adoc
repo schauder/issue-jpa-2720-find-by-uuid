@@ -1,0 +1,3 @@
+== Reproducer for https://github.com/spring-projects/spring-data-jpa/issues/2720
+
+This repository tries to reproduce the problem, that entities can't be loaded by UUID.
